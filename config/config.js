@@ -229,7 +229,7 @@ exports.autolockdown = true;
 //
 // Your server *must* be registered in order for your custom avatars to be
 // displayed in the client.
-exports.customavatars = {
+exports.customavatars = {'CountDracula120': 'http://167.114.155.242:8000/avatars/countdracula120.png'
 	//'userid': 'customavatar.png'
 };
 

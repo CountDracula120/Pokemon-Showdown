@@ -360,9 +360,9 @@ exports.grouplist = [
 		gamemanagement: true,
 	},
 	{
-		symbol: '\u2605',
-		id: "host",
-		name: "Host",
+		symbol: '!',
+		id: "Super Star",
+		name: "Super Star",
 		inherit: '@',
 		jurisdiction: 'u',
 		roommod: true,
